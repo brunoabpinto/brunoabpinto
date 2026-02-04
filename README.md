@@ -1,37 +1,24 @@
-# Hey, I'm Bruno 👋
+# Bruno Pinto
 
-Software engineer building tools for Laravel developers and writing about the weird things I learn along the way.
+I build Laravel packages and occasionally turn images into thousands of HTML elements for absolutely no reason.
 
-## 🚀 What I'm Building
+## Stuff I've Made
 
-**[Vector](https://github.com/brunoabpinto/vector)** - Use Vue's Composition API directly in Blade templates  
-*Laravel package • PHP • Vue.js*
+- **[Vector](https://github.com/brunoabpinto/vector)** → Use Vue in Blade without the ceremony
+- **[csrf-refresh](https://github.com/brunoabpinto/csrf-refresh)** → Fix Livewire's session expiration 419s
+- **[IMGML](https://github.com/brunoabpinto/imgml)** → Images as HTML. Don't ask why.
 
-**[csrf-refresh](https://github.com/brunoabpinto/csrf-refresh)** - Solve Livewire's 419 errors after session expiration  
-*Laravel package • PHP • Livewire*
+## Things I Write About
 
-**[IMGML](https://github.com/brunoabpinto/imgml)** - Turn images into 10,000 tiny HTML elements because why not  
-*Experiment • JavaScript*
+Security holes I've discovered, packages I've built, and experiments that probably shouldn't work but do.
 
-## 📝 Recent Writing
+→ **[brunopinto.dev](https://brunopinto.dev)**
 
-I write about Laravel, security vulnerabilities, and experiments gone right (or wrong) at **[brunopinto.dev](https://brunopinto.dev)**
+## Find Me
 
-Latest posts:
-- [Vector: Vue in Blade, the easy way](https://brunopinto.dev/vector)
-- [How a Livewire Vulnerability Led to Crypto Mining on Our Servers](https://brunopinto.dev/livewire-vulnerability)
-- [I Turned Images Into 10,000 Tiny HTML Elements](https://brunopinto.dev/imgml)
-
-## 🛠️ Tech I Work With
-
-Laravel • Vue.js • PHP • JavaScript • Livewire • Tailwind CSS
-
-## 📫 Connect
-
-- 🐦 Twitter: [@brunopinto_dev](https://twitter.com/brunopinto_dev)
-- 💼 LinkedIn: [bruno-pinto](https://www.linkedin.com/in/bruno-pinto-774279123/)
-- 📧 Blog: [brunopinto.dev](https://brunopinto.dev)
+[@brunopinto_dev](https://twitter.com/brunopinto_dev) on Twitter  
+[bruno-pinto](https://www.linkedin.com/in/bruno-pinto-774279123/) on LinkedIn
 
 ---
 
-*Currently exploring: Making Laravel and Vue play nicely together without the ceremony*
+*Laravel • Vue • PHP • JavaScript*
